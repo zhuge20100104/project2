@@ -3,9 +3,11 @@
 
 def func(args1,**kwargs):
     print(len(kwargs))
-
+    print('There is xixi!!')
     kwargs.update(args1)
+    print('hehe')
     print(kwargs)
+    print('haha')
 
 
     # for k,v in kwargs.items():
