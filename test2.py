@@ -10,6 +10,7 @@ def func(args1,**kwargs):
     print('xixi')
     print(kwargs)
     print('haha')
+    print('xiddididid')
 
 
     # for k,v in kwargs.items():
