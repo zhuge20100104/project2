@@ -5,12 +5,13 @@ def func(args1,**kwargs):
     print(len(kwargs))
     print('There is xixi!!')
     print('no xixi')
-    kwargs.update(args1)
     print('hehe')
     print('xixi')
     print(kwargs)
     print('haha')
+    print('hahahaha')
     print('xiddididid')
+    kwargs.update(args1)
 
 
     # for k,v in kwargs.items():
